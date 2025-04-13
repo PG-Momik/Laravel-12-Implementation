@@ -1,0 +1,881 @@
+{
+  "posts": [
+    {
+      "thread": {
+        "uuid": "afca03fd65caa14cb5034bb7a6e477f456453bc6",
+        "url": "https://www.watoday.com.au/national/western-australia/wa-news-live-perth-father-lucky-to-be-alive-after-random-bashing-20250413-p5lref.html",
+        "site_full": "www.watoday.com.au",
+        "site": "watoday.com.au",
+        "site_section": "https://watoday.com.au/",
+        "site_categories": [
+          "media",
+          "top_news_au",
+          "top_news"
+        ],
+        "section_title": "Breaking News from Perth &amp; Western Australia | WAtoday.com.au",
+        "title": "WA news LIVE: Perth father 'lucky to be alive' after random bashing",
+        "title_full": "WA news LIVE: Perth father 'lucky to be alive' after random bashing",
+        "published": "2025-04-14T02:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://static.ffx.io/images/$zoom_1.1037%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_watoday_live_no_age_social_wm/6ab7c807bba5b6206c547a1ab3b4d960009b9d7c1a319569a75d11187722a401",
+        "performance_score": 0,
+        "domain_rank": 13160,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-14T02:37:04.805+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "afca03fd65caa14cb5034bb7a6e477f456453bc6",
+      "url": "https://www.watoday.com.au/national/western-australia/wa-news-live-perth-father-lucky-to-be-alive-after-random-bashing-20250413-p5lref.html",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": "WAtoday",
+      "published": "2025-04-14T02:33:00.000+03:00",
+      "title": "WA news LIVE: Perth father 'lucky to be alive' after random bashing",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "",
+      "highlightTitle": "WA news LIVE: Perth father 'lucky to be alive' after <em>random</em> bashing... ",
+      "highlightThreadTitle": "WA news LIVE: Perth father 'lucky to be alive' after <em>random</em> bashing... ",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Social Issue"
+      ],
+      "external_links": [],
+      "external_images": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "News Perth",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "Parmelia",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "rating": null,
+      "crawled": "2025-04-14T02:37:04.805+03:00",
+      "updated": "2025-04-14T02:37:04.805+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "c79b84506b77820decf1ff985f8b51386df745c7",
+        "url": "https://www.cnbc.com/2025/04/12/millionaire-who-has-weathered-recessions-what-im-doing-with-my-money-right-now.html",
+        "site_full": "www.cnbc.com",
+        "site": "cnbc.com",
+        "site_section": "https://news.google.com/search?q=who%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+          "financial_news",
+          "finance",
+          "top_news_nz",
+          "top_news_au",
+          "top_news_ae",
+          "top_news_us",
+          "top_news_tw",
+          "top_news_gb",
+          "top_news_th",
+          "top_news_kr",
+          "top_news_sg",
+          "top_news_ph",
+          "top_news_hk",
+          "top_news_qa",
+          "top_news_ie",
+          "top_news_pk",
+          "top_news_dk",
+          "top_news_za",
+          "top_news_my",
+          "top_news_il",
+          "top_news_kw",
+          "top_news_ca",
+          "top_news_iq",
+          "top_news"
+        ],
+        "section_title": "Google News - Search",
+        "title": "Millionaire who has 'weathered recessions': What I'm doing with my money",
+        "title_full": "Millionaire who has 'weathered recessions': What I'm doing with my money",
+        "published": "2025-04-12T16:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://image.cnbcfm.com/api/v1/image/107373102-1707853085138-Bernadette_Joy_feature_image.jpg?v=1707919619&amp;w=1920&amp;h=1080",
+        "performance_score": 0,
+        "domain_rank": 142,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-12T16:06:27.000+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c79b84506b77820decf1ff985f8b51386df745c7",
+      "url": "https://www.cnbc.com/2025/04/12/millionaire-who-has-weathered-recessions-what-im-doing-with-my-money-right-now.html",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": "Bernadette Joy, Contributor",
+      "published": "2025-04-12T16:00:00.000+03:00",
+      "title": "Millionaire who has 'weathered recessions': What I'm doing with my money",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "Instead of throwing money at \"convenience inflation\" — impulse buys, <em>random</em> Amazon finds or dupes that... ",
+      "highlightTitle": "",
+      "highlightThreadTitle": "",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Economy, Business and Finance"
+      ],
+      "external_links": [
+        "https://www.instagram.com/bernadebtjoy/",
+        "https://smarter.cnbcmakeit.com/p/how-to-change-careers?utm_source=cnbc&amp;utm_medium=makeitarticle&amp;utm_campaign=body",
+        "https://smarter.cnbcmakeit.com/p/how-to-change-careers?utm_source=cnbc&amp;utm_medium=makeitarticle&amp;utm_campaign=bottom",
+        "https://www.youtube.com/@bernadebtjoy",
+        "https://www.crushyourmoneygoals.com/",
+        "https://www.linkedin.com/in/bernadebtjoy/",
+        "http://crushyourmoneygoals.com/",
+        "https://www.crushyourmoneygoals.com",
+        "https://crushyourmoneygoals.com/",
+        "http://www.crushyourmoneygoals.com/",
+        "https://linkedin.com/in/bernadebtjoy/",
+        "https://www.smarter.cnbcmakeit.com/p/how-to-change-careers?utm_source=cnbc&amp;utm_medium=makeitarticle&amp;utm_campaign=bottom",
+        "https://www.smarter.cnbcmakeit.com/p/how-to-change-careers?utm_source=cnbc&amp;utm_medium=makeitarticle&amp;utm_campaign=body",
+        "https://instagram.com/bernadebtjoy/",
+        "https://www.instagram.com/bernadebtjoy",
+        "https://youtube.com/@bernadebtjoy",
+        "http://crushyourmoneygoals.com",
+        "https://www.linkedin.com/in/bernadebtjoy",
+        "https://smarter.cnbcmakeit.com/p/how-to-change-careers"
+      ],
+      "external_images": [],
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+      },
+      "rating": null,
+      "crawled": "2025-04-12T16:06:13.310+03:00",
+      "updated": "2025-04-12T16:06:13.310+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "04d2841ed4be20b00ad764addf97e3075f0be2b3",
+        "url": "https://nypost.com/2025/04/13/us-news/iowa-man-convicted-in-catcalling-murder-of-nikki-loffredo",
+        "site_full": "nypost.com",
+        "site": "nypost.com",
+        "site_section": "https://news.google.com/search?q=of%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+          "social",
+          "top_news_pk",
+          "top_news_gb",
+          "top_news_il",
+          "top_news_dk",
+          "top_news_se",
+          "top_news_nz",
+          "top_news_au",
+          "top_news_sg",
+          "top_news_ie",
+          "top_news_za",
+          "top_news_ph",
+          "top_news_us",
+          "top_news_ca",
+          "top_news_iq",
+          "top_news_at",
+          "top_news"
+        ],
+        "section_title": "Google News - Search",
+        "title": "Iowa man convicted in catcalling murder of Nikki Loffredo",
+        "title_full": "Iowa man convicted in catcalling murder of Nikki Loffredo",
+        "published": "2025-04-13T23:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://nypost.com/wp-content/uploads/sites/2/2025/04/102629030.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "performance_score": 0,
+        "domain_rank": 341,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-14T00:04:23.000+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "04d2841ed4be20b00ad764addf97e3075f0be2b3",
+      "url": "https://nypost.com/2025/04/13/us-news/iowa-man-convicted-in-catcalling-murder-of-nikki-loffredo",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": "Alex Oliveira",
+      "published": "2025-04-13T23:59:00.000+03:00",
+      "title": "Iowa man convicted in catcalling murder of Nikki Loffredo",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "An Iowa man is facing life in prison after he was convicted of gunning down a <em>random</em> mother when she... ",
+      "highlightTitle": "",
+      "highlightThreadTitle": "",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+      ],
+      "external_links": [],
+      "external_images": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "Nikki Loffredo",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "James Bernard Johnson",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [],
+        "locations": []
+      },
+      "rating": null,
+      "crawled": "2025-04-14T00:04:11.059+03:00",
+      "updated": "2025-04-14T00:04:11.059+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "0a3336d93d8c0a370323bab7f31329c73ef99b4e",
+        "url": "https://www.businessinsider.com/23andme-what-happens-to-genetic-data-buyers-sale-bankruptcy-security-2025-4",
+        "site_full": "www.businessinsider.com",
+        "site": "businessinsider.com",
+        "site_section": "http://www.businessinsider.com",
+        "site_categories": [
+          "media",
+          "tech",
+          "top_news_nz",
+          "top_news_au",
+          "top_news_ae",
+          "top_news_us",
+          "top_news_gb",
+          "top_news_th",
+          "top_news_sg",
+          "top_news_rs",
+          "top_news_ph",
+          "top_news_hk",
+          "top_news_qa",
+          "top_news_ie",
+          "top_news_pk",
+          "top_news_se",
+          "top_news_id",
+          "top_news_dk",
+          "top_news_za",
+          "top_news_my",
+          "top_news_il",
+          "top_news_kw",
+          "top_news_fi",
+          "top_news_ca",
+          "top_news"
+        ],
+        "section_title": "Business Insider - Latest News in Tech, Markets, Economy & Innovation",
+        "title": "Here's What Potential 23andMe Buyers Could Do With Your Genetic Data - Business Insider",
+        "title_full": "Here's What Potential 23andMe Buyers Could Do With Your Genetic Data - Business Insider",
+        "published": "2025-04-13T20:26:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.insider.com/67f9893dc6ad288d147e0293?width=1200&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 127,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-13T20:31:07.000+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "0a3336d93d8c0a370323bab7f31329c73ef99b4e",
+      "url": "https://www.businessinsider.com/23andme-what-happens-to-genetic-data-buyers-sale-bankruptcy-security-2025-4",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": "Lakshmi Varanasi, Lauren Edmonds",
+      "published": "2025-04-13T20:26:00.000+03:00",
+      "title": "Here's What Potential 23andMe Buyers Could Do With Your Genetic Data - Business Insider",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "\"De-identification (replacing personal information with a <em>random</em> ID) enables researchers to protect the... ",
+      "highlightTitle": "",
+      "highlightThreadTitle": "",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Health"
+      ],
+      "external_links": [],
+      "external_images": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "Anne Wojcicki",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [],
+        "locations": []
+      },
+      "rating": null,
+      "crawled": "2025-04-13T20:30:50.618+03:00",
+      "updated": "2025-04-13T20:30:50.618+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "a08ce69fd9dce5df1f9d1f7731ffe7b988086c1b",
+        "url": "https://www.cbsnews.com/minnesota/news/south-st-paul-man-dies-from-apparent-gunshot-wound-officials-say",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://news.google.com/search?q=from%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+          "media",
+          "television",
+          "entertainment",
+          "top_news_ca",
+          "top_news_ph",
+          "top_news_iq",
+          "top_news_nz",
+          "top_news_au",
+          "top_news_us",
+          "top_news_za",
+          "top_news_sg",
+          "top_news_kw",
+          "top_news"
+        ],
+        "section_title": "Google News - Search",
+        "title": "South St. Paul man dies from apparent gunshot wound, officials say - CBS Minnesota",
+        "title_full": "South St. Paul man dies from apparent gunshot wound, officials say - CBS Minnesota",
+        "published": "2025-04-12T16:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/05/03601cec-aac7-4e61-a4f1-d679b6f32dc2/thumbnail/1200x630/f50aa109cb438eabbe211d45bf64d5b5/baltimore-police-general.jpg?v=653dd6912cdd8596c9bfea812c355f95",
+        "performance_score": 0,
+        "domain_rank": 196,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-12T16:36:27.525+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "a08ce69fd9dce5df1f9d1f7731ffe7b988086c1b",
+      "url": "https://www.cbsnews.com/minnesota/news/south-st-paul-man-dies-from-apparent-gunshot-wound-officials-say",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": null,
+      "published": "2025-04-12T16:27:00.000+03:00",
+      "title": "South St. Paul man dies from apparent gunshot wound, officials say - CBS Minnesota",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "Officials say they believe the victim and the suspect in custody knew each other, that this was no <em>random</em>... ",
+      "highlightTitle": "",
+      "highlightThreadTitle": "",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Social Issue"
+      ],
+      "external_links": [
+        "https://facebook.com/CBSMinnesota",
+        "https://twitter.com/wcco",
+        "https://instagram.com/wcco",
+        "https://www.instagram.com/wcco",
+        "https://www.twitter.com/wcco",
+        "https://www.facebook.com/CBSMinnesota"
+      ],
+      "external_images": [],
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+      },
+      "rating": null,
+      "crawled": "2025-04-12T16:36:27.525+03:00",
+      "updated": "2025-04-12T21:18:01.190+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "3ac6690e63e2936b48fdc1d5d6d4102753b37153",
+        "url": "https://www.cbsnews.com/miami/news/pembroke-pines-deadly-shooting-rickeys-sports-bar-grill",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://cbslocal.com/cbslocal/",
+        "site_categories": [
+          "media",
+          "television",
+          "entertainment",
+          "top_news_ca",
+          "top_news_ph",
+          "top_news_iq",
+          "top_news_nz",
+          "top_news_au",
+          "top_news_us",
+          "top_news_za",
+          "top_news_sg",
+          "top_news_kw",
+          "top_news"
+        ],
+        "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+        "title": "Man shot to death outside Rickey's Sports Bar & Grill in Pembroke Pines, police say - CBS Miami",
+        "title_full": "Man shot to death outside Rickey's Sports Bar & Grill in Pembroke Pines, police say - CBS Miami",
+        "published": "2025-04-12T19:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/12/ae71c31b-a55d-40b7-8520-26455478ca1d/thumbnail/1200x630/5ce70121b2b50274590272ab50028673/copy-of-copy-of-yt-thumb-example-2025-04-12t152605-886.jpg?v=653dd6912cdd8596c9bfea812c355f95",
+        "performance_score": 0,
+        "domain_rank": 196,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-13T00:20:59.000+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "3ac6690e63e2936b48fdc1d5d6d4102753b37153",
+      "url": "https://www.cbsnews.com/miami/news/pembroke-pines-deadly-shooting-rickeys-sports-bar-grill",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": null,
+      "published": "2025-04-12T19:12:00.000+03:00",
+      "title": "Man shot to death outside Rickey's Sports Bar & Grill in Pembroke Pines, police say - CBS Miami",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "to the preliminary investigation, Pembroke Pines Police said the shooting \"does not appear to be a <em>random</em>... ",
+      "highlightTitle": "",
+      "highlightThreadTitle": "",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Human Interest"
+      ],
+      "external_links": [
+        "https://www.instagram.com/stories/rickeysgrill/3609331443689949591/",
+        "https://www.instagram.com/stories/rickeysgrill/3609331443689949591",
+        "https://instagram.com/stories/rickeysgrill/3609331443689949591/"
+      ],
+      "external_images": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "Rickey",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "Sports Bar & Grill",
+            "sentiment": "negative"
+          },
+          {
+            "name": "CBS",
+            "sentiment": "negative"
+          },
+          {
+            "name": "Pembroke Pines Police",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "rating": null,
+      "crawled": "2025-04-13T00:18:56.820+03:00",
+      "updated": "2025-04-13T00:26:16.697+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "c5a5dd9b533f84e0a810ed2d5c3b35c982e0028b",
+        "url": "https://www.newsbreak.com/kvue-524543/3961109370660-apd-arrests-man-accused-of-random-attacks",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kvue-524543",
+        "site_categories": [
+          "under_construction",
+          "non_standard_content"
+        ],
+        "section_title": "KVUE&#x27;s Home Page | NewsBreak",
+        "title": "APD arrests man accused of random attacks - NewsBreak",
+        "title_full": "APD arrests man accused of random attacks - NewsBreak",
+        "published": "2025-04-13T19:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4PEiXo_10MIkIAF00",
+        "performance_score": 0,
+        "domain_rank": 3145,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-13T19:58:06.000+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "c5a5dd9b533f84e0a810ed2d5c3b35c982e0028b",
+      "url": "https://www.newsbreak.com/kvue-524543/3961109370660-apd-arrests-man-accused-of-random-attacks",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": "KVUE",
+      "published": "2025-04-13T19:33:00.000+03:00",
+      "title": "APD arrests man accused of random attacks - NewsBreak",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "KVUE\n·\npublisher · 92.5K followers\nAustin\nAPD arrests man accused of <em>random</em> attacks\n23 minutes ago\nA... ",
+      "highlightTitle": "APD arrests man accused of <em>random</em> attacks - NewsBreak... ",
+      "highlightThreadTitle": "APD arrests man accused of <em>random</em> attacks - NewsBreak... ",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Crime, Law and Justice"
+      ],
+      "external_links": [],
+      "external_images": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "Austin\nAPD",
+            "sentiment": "neutral"
+          }
+        ],
+        "locations": [
+          {
+            "name": "Travis County Jail",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "rating": null,
+      "crawled": "2025-04-13T19:57:07.272+03:00",
+      "updated": "2025-04-13T19:57:07.272+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "b8889180737885da8f21a0ac69f706bb5650f759",
+        "url": "https://nypost.com/2025/04/12/lifestyle/how-johnson-amp-johnson-has-survived-scandal-after-scandal",
+        "site_full": "nypost.com",
+        "site": "nypost.com",
+        "site_section": "https://nypost.com/rss",
+        "site_categories": [
+          "social",
+          "top_news_pk",
+          "top_news_gb",
+          "top_news_il",
+          "top_news_dk",
+          "top_news_se",
+          "top_news_nz",
+          "top_news_au",
+          "top_news_sg",
+          "top_news_ie",
+          "top_news_za",
+          "top_news_ph",
+          "top_news_us",
+          "top_news_ca",
+          "top_news_iq",
+          "top_news_at",
+          "top_news"
+        ],
+        "section_title": "New York Post",
+        "title": "How Johnson & Johnson has survived scandal after scandal",
+        "title_full": "How Johnson & Johnson has survived scandal after scandal",
+        "published": "2025-04-12T21:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://nypost.com/wp-content/uploads/sites/2/2025/04/newspress-collage-5lhhb7g1v-1744319467100.jpg?quality=75&#038;strip=all&#038;1744305129&#038;w=1024",
+        "performance_score": 0,
+        "domain_rank": 341,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-12T21:04:34.000+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "b8889180737885da8f21a0ac69f706bb5650f759",
+      "url": "https://nypost.com/2025/04/12/lifestyle/how-johnson-amp-johnson-has-survived-scandal-after-scandal",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": "@nypost",
+      "published": "2025-04-12T21:00:00.000+03:00",
+      "title": "How Johnson & Johnson has survived scandal after scandal",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "earlier,” writes Gardiner Harris in his new book, “No More Tears: The Dark Secrets of Johnson & Johnson” (<em>Random</em>... ",
+      "highlightTitle": "",
+      "highlightThreadTitle": "",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Health"
+      ],
+      "external_links": [
+        "https://r.nypostlink.com?btn_ref=org-19984c113c692001&btn_url=https%3A%2F%2Fwww.amazon.com%2FNo-More-Tears-Secrets-Johnson%2Fdp%2F059322986X%3Ftag%3Dnypost-20%26asc_refurl%3Dhttps%3A%2F%2Fnypost.com%2F2025%2F04%2F12%2Flifestyle%2Fhow-johnson-amp-johnson-has-survived-scandal-after-scandal%2F%26asc_source%3Dweb",
+        "https://www.jnj.com/latest-news/johnson-johnson-named-a-2025-fortune-worlds-most-admired-company",
+        "https://jnj.com/latest-news/johnson-johnson-named-a-2025-fortune-worlds-most-admired-company",
+        "https://r.nypostlink.com",
+        "https://www.r.nypostlink.com?btn_ref=org-19984c113c692001&btn_url=https%3A%2F%2Fwww.amazon.com%2FNo-More-Tears-Secrets-Johnson%2Fdp%2F059322986X%3Ftag%3Dnypost-20%26asc_refurl%3Dhttps%3A%2F%2Fnypost.com%2F2025%2F04%2F12%2Flifestyle%2Fhow-johnson-amp-johnson-has-survived-scandal-after-scandal%2F%26asc_source%3Dweb"
+      ],
+      "external_images": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "Mary Kellerman",
+            "sentiment": "negative"
+          },
+          {
+            "name": "Gardiner Harris",
+            "sentiment": "none"
+          },
+          {
+            "name": "John F. Kennedy",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "Random House",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "rating": null,
+      "crawled": "2025-04-12T21:03:42.988+03:00",
+      "updated": "2025-04-12T21:03:42.988+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "f5fd0b455d39961a74a915a56b6eb18ea1020b2a",
+        "url": "https://www.newsbreak.com/kvue-524543/3961108784839-apd-arrests-man-accused-of-random-attacks",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kvue-524543",
+        "site_categories": [
+          "under_construction",
+          "non_standard_content"
+        ],
+        "section_title": "KVUE&#x27;s Home Page | NewsBreak",
+        "title": "APD arrests man accused of random attacks - NewsBreak",
+        "title_full": "APD arrests man accused of random attacks - NewsBreak",
+        "published": "2025-04-13T19:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1BihRG_10MIhxZV00",
+        "performance_score": 0,
+        "domain_rank": 3145,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-13T19:57:17.000+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "f5fd0b455d39961a74a915a56b6eb18ea1020b2a",
+      "url": "https://www.newsbreak.com/kvue-524543/3961108784839-apd-arrests-man-accused-of-random-attacks",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": null,
+      "published": "2025-04-13T19:33:00.000+03:00",
+      "title": "APD arrests man accused of random attacks - NewsBreak",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "Austin, Texas\n· 23 minutes ago\nKVUE\nAPD arrests man accused of <em>random</em> attacks\n0\n0\nShare\nComments\nPost... ",
+      "highlightTitle": "APD arrests man accused of <em>random</em> attacks - NewsBreak... ",
+      "highlightThreadTitle": "APD arrests man accused of <em>random</em> attacks - NewsBreak... ",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Human Interest"
+      ],
+      "external_links": [],
+      "external_images": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "APD",
+            "sentiment": "negative"
+          },
+          {
+            "name": "Tucson News",
+            "sentiment": "none"
+          },
+          {
+            "name": "KGUN",
+            "sentiment": "none"
+          },
+          {
+            "name": "WFAA",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "rating": null,
+      "crawled": "2025-04-13T19:57:07.398+03:00",
+      "updated": "2025-04-13T19:57:07.398+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "81533ca53452eb2ec66e9d27c5d4a293df3bb5ff",
+        "url": "https://local.newsbreak.com/kvue-524543/3961108784839-apd-arrests-man-accused-of-random-attacks",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/kvue-524543",
+        "site_categories": [],
+        "section_title": "KVUE&#x27;s Home Page | NewsBreak",
+        "title": "APD arrests man accused of random attacks - NewsBreak",
+        "title_full": "APD arrests man accused of random attacks - NewsBreak",
+        "published": "2025-04-13T19:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1BihRG_10MIhxZV00",
+        "performance_score": 0,
+        "domain_rank": 3145,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "social": {
+          "updated": "2025-04-13T20:01:32.000+03:00",
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "81533ca53452eb2ec66e9d27c5d4a293df3bb5ff",
+      "url": "https://local.newsbreak.com/kvue-524543/3961108784839-apd-arrests-man-accused-of-random-attacks",
+      "ord_in_thread": 0,
+      "parent_url": null,
+      "author": null,
+      "published": "2025-04-13T19:33:00.000+03:00",
+      "title": "APD arrests man accused of random attacks - NewsBreak",
+      "text": "Full text is unavailable in the news API lite version",
+      "highlightText": "Austin, Texas\n· 27 minutes ago\nKVUE\nAPD arrests man accused of <em>random</em> attacks\n0\n0\nShare\nComments\nPost... ",
+      "highlightTitle": "APD arrests man accused of <em>random</em> attacks - NewsBreak... ",
+      "highlightThreadTitle": "APD arrests man accused of <em>random</em> attacks - NewsBreak... ",
+      "language": "english",
+      "sentiment": "negative",
+      "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+      ],
+      "external_links": [],
+      "external_images": [],
+      "entities": {
+        "persons": [],
+        "organizations": [
+          {
+            "name": "KVUE\nAPD",
+            "sentiment": "neutral"
+          },
+          {
+            "name": "Tucson News",
+            "sentiment": "none"
+          },
+          {
+            "name": "KGUN",
+            "sentiment": "none"
+          },
+          {
+            "name": "WFAA",
+            "sentiment": "none"
+          }
+        ],
+        "locations": []
+      },
+      "rating": null,
+      "crawled": "2025-04-13T20:01:03.620+03:00",
+      "updated": "2025-04-13T20:01:03.620+03:00"
+    }
+  ],
+  "totalResults": 20,
+  "moreResultsAvailable": 10,
+  "next": "/newsApiLite?token=test-token&ts=1744350915425&q=random&sort=relevancy&order=desc&from=10&ns=40.811604&ni=81533ca53452eb2ec66e9d27c5d4a293df3bb5ff&sentiment=negative&highlight=true&size=10",
+  "requestsLeft": 944,
+  "warnings": null
+}
