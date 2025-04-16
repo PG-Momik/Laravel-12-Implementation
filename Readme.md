@@ -61,7 +61,7 @@
 ---
 
 # Same stuff as Node implementation
-- See node implementation here: https://github.com/PG-Momik/Node-Implementation-Human/Readme.mmd
+- See node implementation here: https://github.com/PG-Momik/Node-Implementation-Human/Readme.md
 - From design considerations to TODO's everything carried over.
 
 
