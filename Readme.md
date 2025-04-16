@@ -1,3 +1,9 @@
+> [!NOTE]
+> Parent repo
+> https://github.com/PG-Momik/Interview-prep
+
+---
+
 # Setup Guide
 
 1. **Copy the repository**
